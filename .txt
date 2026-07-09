@@ -1,0 +1,64 @@
+[33mcommit 710c0a2260a165495ee5910ccac9d169707f55ad[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 062e5fd c0591e1
+Author: Guilherme Venturini <guilhermevent@live.com>
+Date:   Wed Jul 8 22:12:58 2026 -0300
+
+    Merge branch 'main' of github.com:Vent7/numero-secreto
+
+[33mcommit 062e5fdb94c7f3f7361af189346f15268ca36444[m
+Author: Guilherme Venturini <guilhermevent@live.com>
+Date:   Wed Jul 8 22:12:28 2026 -0300
+
+    Adição do readme.md com informações sobre o projeto.
+
+[33mcommit c0591e19e134c90530245e2df0e2893f3f379eed[m
+Author: Guilherme Venturini <89490149+Vent7@users.noreply.github.com>
+Date:   Mon Jun 29 21:32:58 2026 -0300
+
+    Add project description to README
+
+[33mcommit 997817097399fa16acc2778c9bc906084b46cd02[m
+Author: Guilherme Venturini <guilherme.venturini@emasoftware.com.br>
+Date:   Fri Jun 26 17:55:34 2026 -0300
+
+    Revert "Merge do histórico local com o remoto"
+    
+    This reverts commit f0fd0ebcc7c6c75a366a9f84b590c86a085c511b, reversing
+    changes made to 1b8994ad1d60b55e52e57af61ad0b876a6c78167.
+
+[33mcommit 491c0b0226bf4c60fddf4029d936f6fec674aa14[m
+Author: Guilherme Venturini <guilherme.venturini@emasoftware.com.br>
+Date:   Fri Jun 26 14:37:06 2026 -0300
+
+    Deixando o jogo mais difícil
+
+[33mcommit f0fd0ebcc7c6c75a366a9f84b590c86a085c511b[m
+Merge: 1b8994a 255b2c1
+Author: Guilherme Venturini <guilherme.venturini@emasoftware.com.br>
+Date:   Fri Jun 26 14:34:16 2026 -0300
+
+    Merge do histórico local com o remoto
+
+[33mcommit 1b8994ad1d60b55e52e57af61ad0b876a6c78167[m
+Author: Guilherme Venturini <guilherme.venturini@emasoftware.com.br>
+Date:   Fri Jun 26 14:28:29 2026 -0300
+
+    Primeiro commit do PC do trabalho
+
+[33mcommit 255b2c19f72b0e93edf8ea94fa3e2f3c7f8cd265[m
+Author: Guilherme Venturini <guilhermevent@live.com>
+Date:   Sat Jun 20 11:00:18 2026 -0300
+
+    main
+
+[33mcommit bb140717aaf45f94d1dbc9753d96667b5cdc1cc3[m
+Author: Guilherme Venturini <guilhermevent@live.com>
+Date:   Mon Jun 15 23:08:20 2026 -0300
+
+    Alterações nas mensagens de retorno ao usuário
+
+[33mcommit 30f8ad82226b360f506ede92222ccaf5b4ff9999[m
+Author: Guilherme Venturini <guilhermevent@live.com>
+Date:   Sun Jun 14 00:06:18 2026 -0300
+
+    projeto inicial

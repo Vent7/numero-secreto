@@ -1,1 +1,1 @@
-Readme criado para ilustrar o modo como o projeto será desenvolvido.
+Projeto criado para gerar uma jogo onde você deve adivinhar o número secreto gerado pelo próprio projeto.
